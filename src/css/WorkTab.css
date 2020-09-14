@@ -1,0 +1,8 @@
+.listItem{
+    max-height: 40vh;
+    transition: 0s;
+}
+
+.listItem:hover{
+    transition-delay: 0s;
+}

@@ -1,0 +1,11 @@
+Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#v-divider{
+    width: 2px;
+    border: solid white 2px;
+}
