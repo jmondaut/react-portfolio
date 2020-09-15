@@ -24,7 +24,7 @@ function Work(){
     return(
         <Container>
         <Row className="justify-content-md-center">
-            <Col>Jonathan MONDAUT Work</Col>
+            <Col>Jonathan MONDAUT Work (Website not responsive yet)</Col>
         </Row>
         <Row className="">
             <Col id="work-list" xs={12} lg={2}>

@@ -7,7 +7,7 @@ function Home(){
     return(
         <Container>
         <Row className="justify-content-md-center">
-            <Col>Jonathan MONDAUT</Col>
+            <Col>Jonathan MONDAUT (Website not responsive yet)</Col>
         </Row>
         <Row className="justify-content-md-center">
             <Col xs={5} md={4}>
