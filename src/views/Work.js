@@ -12,10 +12,10 @@ function Work(){
     }
 
     const workList = {
-        "1": {link: "https://codesandbox.io/embed/github/jmondaut/portfolio-website/tree/master/?codemirror=1&view=editor",
+        "1": {link: "https://codesandbox.io/embed/charming-rosalind-xp14j/?codemirror=1&view=split",
                 desc: "This Portfolio",
-                completed: ""},
-        "2": {link: "https://codesandbox.io/embed/musing-benz-yfqel?codemirror=1&view=editor",
+                completed: "(Under Construction)"},
+        "2": {link: "https://codesandbox.io/embed/musing-benz-yfqel?codemirror=1&view=split",
                 desc: "Kébarbe",
                 completed: "(Under Construction)"}
     };
